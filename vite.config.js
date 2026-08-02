@@ -1,5 +1,5 @@
-import { defineConfig } from 'vite'
+import { defineConfig } from "vite";
 
 export default defineConfig({
-  base: '/Eisenhower_Task/'
-})
+  base: "/Eisenhower_Task/",
+});
